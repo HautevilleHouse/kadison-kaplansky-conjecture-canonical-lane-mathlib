@@ -1,0 +1,7 @@
+-- This module is the root of the KadisonKaplanskyConjectureCanonicalLaneLean Lean proof package.
+import KadisonKaplanskyConjectureCanonicalLaneLean.Basic
+import KadisonKaplanskyConjectureCanonicalLaneLean.SourcePackage
+import KadisonKaplanskyConjectureCanonicalLaneLean.SourceDependencies
+import KadisonKaplanskyConjectureCanonicalLaneLean.Formalization
+import KadisonKaplanskyConjectureCanonicalLaneLean.ReviewerBridge
+import KadisonKaplanskyConjectureCanonicalLaneLean.TheoremStatement
